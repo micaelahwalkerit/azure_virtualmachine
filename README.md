@@ -7,7 +7,7 @@
 <h1>Creating a Virtual Machine (Azure)</h1>
 This tutorial outlines how to create a Virtual Machine within Microsoft Azure. </br>
 </br>
-<i> What is a Virtual Machine? </i> A virtual machine is a computer created using software that runs inside your main physical computer. It’s like having a second, separate computer within your existing one, made possible by tools like Microsoft Azure. Each virtual machine works on its own, with its own system, programs, and files—just like a real computer. Using a virtual machine in Azure makes it easy to run different systems, save money on hardware, and safely test software in a secure environment (a.k.a "The Cloud).
+<i> What is a Virtual Machine? </i> A virtual machine is a computer created using software that runs inside your main physical computer. It’s like having a second, separate computer within your existing one, made possible by tools like Microsoft Azure. Each virtual machine works on its own, with its own system, programs, and files—just like a real computer. Using a virtual machine in Azure makes it easy to run different systems  (OS systems), save money on hardware, and safely test software in a secure environment (a.k.a "The Cloud).
 <br />
 
 
@@ -37,7 +37,7 @@ This tutorial outlines how to create a Virtual Machine within Microsoft Azure. <
 - Step 6 - Monitoring/Management Tab
 - Step 7 - Review + Create ( Virtual Machine )
 - Step 8 - Deployment
-- Step 9 - Connect to the Virtual Machine &#x1F604;
+- Step 9 - Check to see if Virtual Machine is Successfully Running &#128077; &#x1F604;
 
 <h2>Deployment and Configuration Steps</h2>
 
