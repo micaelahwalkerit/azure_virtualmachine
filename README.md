@@ -149,7 +149,7 @@ Click <b>"Next: Networking"</b>.
 <br />
 
 <p>
-<img src="https://i.imgur.com/IWOHYJU.png" height="60%" width="60%" alt="Azure Virtual Machine Steps"/>
+<img src="https://i.imgur.com/IWOHYJU.png" height="80%" width="80%" alt="Azure Virtual Machine Steps"/>
 </p>
 <p>
 <h3><b>Step 5 - Networking Tab</b></h3> 
@@ -169,7 +169,7 @@ Ensure <b>"Public IP"</b> is set to create a new one (if you want internet acces
 <br />
 
 <p>
-<img src="https://i.imgur.com/s6te31Q.png" height="60%" width="60%" alt="Azure Virtual Machine Steps"/>
+<img src="https://i.imgur.com/s6te31Q.png" height="80%" width="80%" alt="Azure Virtual Machine Steps"/>
 </p>
 <p>
 <h3><b> Step 6 - Management, Montoring, Advanced,Tag Tabs </b></h3>
@@ -184,7 +184,7 @@ Click <b>Review + Create<b/>
 <br />
 
 <p>
-<img src="https://i.imgur.com/YBEt0H5.png" height="60%" width="60%" alt="Azure Virtual Machine Steps"/>
+<img src="https://i.imgur.com/YBEt0H5.png" height="80%" width="80%" alt="Azure Virtual Machine Steps"/>
 </p>
 <p>
 <h3><b>Step 7 - Review + Create</b></h3>
