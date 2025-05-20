@@ -220,8 +220,11 @@ Once done, click "Go to resource" to view your new virtual machine and observe V
 <img src="https://i.imgur.com/NdZHP4m.png" height="80%" width="80%" alt="Azure Virtual Machine Steps"/>
 </p>
 
+<p>
 <h3><b>Step 9 - Check to see if Virtual Machine is Successfully Running</b></h3>
 <br />
+</p>
+
  <p>
 Click <b> "Home".</b>
 
@@ -230,6 +233,10 @@ Click <b>"Virtual Machines".</b>
 See if the Virtual Machine you created is running
 </p>
 <br />
+
+<p>Now you can connect to your Virtual Machine via Remote Desktop (RDP) for Windows VMs or Secured Shell (SSH) for Linux VMs
+</p>
+
 <br />
 <br />
 <br />
